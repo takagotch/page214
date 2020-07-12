@@ -1,4 +1,6 @@
-https://takagotch.github.io/page214/
+### https://takagotch.github.io/page214/
+---
+
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-admin.svg)](https://rubygems.org/gems/jekyll-admin)
 [![Build Status](https://travis-ci.org/jekyll/jekyll-admin.svg?branch=master)](https://travis-ci.org/jekyll/jekyll-admin)
